@@ -43,7 +43,7 @@
       * Στις μπάλες με τα δεδομένα<br>
    ![](images/colorsData.png)
    
-      * Στα πεδία ομαδοποίησης Split by party<br>
+     * Στα πεδία ομαδοποίησης Split by party<br>
    ![](images/splitPartyColors.png)
    
    
