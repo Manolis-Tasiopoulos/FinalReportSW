@@ -79,7 +79,7 @@
      ```
    - __Προσθήκη των στοιχείων μου σε κοινο index file:__  
      
-     ![Name](images/Name.png)
+     ![Name](images/name.png)
      ```
      My data
      ```
